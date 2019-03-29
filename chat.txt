@@ -1,0 +1,6 @@
+saa: dsa
+add: add
+mz: zmienia sie juz
+aa: ss
+ss: aa
+sa: fa
